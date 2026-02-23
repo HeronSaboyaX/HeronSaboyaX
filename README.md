@@ -9,7 +9,6 @@ const person = {
     name: "Heron Saboya",
     age: 25,
     role: "IT Infrastructure Analyst"
-    Security Mode: Enabled
 }
 ```
 
@@ -42,7 +41,7 @@ root@heronsaboya:~# skills --list
  Active Directory
  DNS / DHCP
  TCP/IP Networking
- Firewall & Network
+ Firewall / Network
  Linux System Administration
  Automation (.bat / PowerShell / Bash)
  Infrastructure Monitoring
