@@ -16,7 +16,7 @@ const person = {
 
 <img align="left" alt="CSS 3" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
-<img align="left" alt="Javascript" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Javascript" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" />
 
 <img align="left" alt="Typescript" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
     
