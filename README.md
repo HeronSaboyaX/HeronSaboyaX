@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=79c0ff&center=true&vCenter=true&width=600&lines=Initializing+Heron+Saboya...;Loading+system+modules...;Infrastructure+Analyst+%7C+Networks+%7C+AI;Access+Granted." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=79c0ff&center=true&vCenter=true&width=600&lines=Loading+Heron+Saboya...;Loading+system+modules...;Infrastructure+Analyst+%7C+Networks+%7C+AI;Access+Granted." />
 </p>
 
 ---
