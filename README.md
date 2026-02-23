@@ -9,6 +9,7 @@ const person = {
     name: "Heron Saboya",
     age: 25,
     role: "IT Infrastructure Analyst"
+    security Mode: Enabled
 }
 ```
 
@@ -37,27 +38,14 @@ const person = {
 ```bash
 root@heronsaboya:~# skills --list
 
-[+] Windows Server Administration
-[+] Active Directory
-[+] DNS / DHCP
-[+] TCP/IP Networking
-[+] Firewall & Network
-[+] Automation (.bat / PowerShell / Bash)
-[+] Linux System Administration
-[+] Infrastructure Monitoring
-```
-
----
-
-## System Status
-
-```bash
-root@heronsaboya:~# system-status
-
-User: Heron Saboya
-Role: Infrastructure Analyst
-Security Mode: Enabled
-Threat Level: Monitored
+ Windows Server Administration
+ Active Directory
+ DNS / DHCP
+ TCP/IP Networking
+ Firewall & Network
+ Linux System Administration
+ Automation (.bat / PowerShell / Bash)
+ Infrastructure Monitoring
 ```
 
 ---
